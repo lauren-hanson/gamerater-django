@@ -1,0 +1,44 @@
+[
+    {
+        "model": "gameraterapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Civ 5", 
+            "description": "Sydney's favorite game", 
+            "designer": "Sid Meier",
+            "year_released": "2007", 
+            "min_players": 1, 
+            "max_players": 24, 
+            "estimated_time": 12, 
+            "recommended_age": 10
+        }
+    },
+    {
+        "model": "gameraterapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "LOTRO", 
+            "description": "Take part in the battle for Middle Earth", 
+            "designer": "Standing Stone Games",
+            "year_released": 2001, 
+            "min_players": 1, 
+            "max_players": 100000, 
+            "estimated_time": 8, 
+            "recommended_age": 15
+        }
+    },
+    {
+        "model": "gameraterapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Last of Us", 
+            "description": "Survive the mushroom people in a post-apocalytpic world", 
+            "designer": "Naughty Dog",
+            "year_released": 2012, 
+            "min_players": 1, 
+            "max_players": 2,  
+            "estimated_time": 4, 
+            "recommended_age": 17
+        }
+    }
+]
